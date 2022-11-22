@@ -1,0 +1,17 @@
+.bkc{
+    background-color: blueviolet;
+}
+
+.bg{
+    background-color: black;
+}
+.acercar{
+    overflow: hidden;
+
+}
+.acercar img{
+    transition: all 2s;
+}
+.acercar:hover img{
+    transform: scale(1.5);
+}
